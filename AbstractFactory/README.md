@@ -22,4 +22,4 @@ A aplicação deste padrão traz como benefício principal o isolamento de class
 
 ### Exemplo: ###
 
-Acessar o link para verificar um código exemplo sobre o pattern em questão: Leia Mais - Abstract Factory em C# [http://www.dofactory.com/net/abstract-factory-design-pattern]
+Acessar o link para verificar um código exemplo sobre o pattern em questão: Leia Mais - [Abstract Factory em C#] (http://www.dofactory.com/net/abstract-factory-design-pattern)
