@@ -1,0 +1,5 @@
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\Classes\Classes\obj\Debug\Classes.pdb

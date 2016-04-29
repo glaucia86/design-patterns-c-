@@ -1,0 +1,4 @@
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\Heranca\Heranca\bin\Debug\Heranca.exe
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\Heranca\Heranca\bin\Debug\Heranca.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\Heranca\Heranca\obj\Debug\Heranca.exe
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\Heranca\Heranca\obj\Debug\Heranca.pdb

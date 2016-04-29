@@ -1,0 +1,5 @@
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csprojResolveAssemblyReference.cache
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.exe
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.pdb

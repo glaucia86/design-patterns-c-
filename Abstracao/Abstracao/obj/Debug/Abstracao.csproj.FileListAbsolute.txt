@@ -1,0 +1,5 @@
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\Abstracao\Abstracao\bin\Debug\Abstracao.exe
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\Abstracao\Abstracao\bin\Debug\Abstracao.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\Abstracao\Abstracao\obj\Debug\Abstracao.exe
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\Abstracao\Abstracao\obj\Debug\Abstracao.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\Abstracao\Abstracao\obj\Debug\Abstracao.csprojResolveAssemblyReference.cache
