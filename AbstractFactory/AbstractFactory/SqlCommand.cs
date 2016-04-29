@@ -2,6 +2,7 @@
 
 namespace AbstractFactory
 {
+    /* Concret Product */
     public class SqlCommand : DbCommand
     {
         public override void Execute()
