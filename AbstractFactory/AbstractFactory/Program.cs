@@ -8,7 +8,9 @@ namespace AbstractFactory
         static void Main(string[] args)
         {
             /* Aqui vamos estanciar a nossa Factory */
-            DbFactory db = new SqlFactory();
+            //DbFactory db = new SqlFactory();
+
+            DbFactory db = new MongoFactory();
 
             var con = db.CreateConnection();
             con.Open();

@@ -1,5 +1,4 @@
 C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\design-patterns-c-\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
 C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\design-patterns-c-\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
-C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\design-patterns-c-\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
 C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\design-patterns-c-\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
 C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Padrões de Projeto com C#\design-patterns-c-\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
