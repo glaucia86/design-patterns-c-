@@ -1,11 +1,10 @@
 # Casos de Estudo Pessoal de Design Patterns em C# - Glaucia Lemos
-==============
 
 Casos de estudos pessoais e práticas com explicações e exemplos em código sobre Padrões de Projetos em C#
 
-##Padrões Estudados durante o desenvolvimento do código:
+##Padrões a serem desenvolvidos durante o desenvolvimento dos projetos:
 
-1) Padrões de Criação:
+### 1) Padrões de Criação: ###
 
 - Abstract Factory
 - Padrão Builder
@@ -13,7 +12,7 @@ Casos de estudos pessoais e práticas com explicações e exemplos em código so
 - Prototype
 - Singleton
 
-2) Padrões Estruturais:
+### 2) Padrões Estruturais: ###
 
 - Adapter
 - Bridge
@@ -23,7 +22,7 @@ Casos de estudos pessoais e práticas com explicações e exemplos em código so
 - Flyweight
 - Proxy
 
-3) Padrões Comportamentais:
+### 3) Padrões Comportamentais: ###
 
 - Chain of Responsability
 - Command
@@ -36,19 +35,19 @@ Casos de estudos pessoais e práticas com explicações e exemplos em código so
 - Template Method
 - Visitor
 
-4) Padrões Arquiteturais:
+### 4) Padrões Arquiteturais: ###
 
 - MVC
 - MVVM
 - MVP
 
-5) Outros Tipos de Projetos:
+### 5) Outros Tipos de Projetos: ###
 
 - Private Class Data
 - Object Pool 
 - Interpreter
 
-6) Padrões SOLID:
+### 6) Padrões SOLID: ###
 
 - SRP: Single Responsability Principle
 - OCP: Open Closed Principle
@@ -56,7 +55,7 @@ Casos de estudos pessoais e práticas com explicações e exemplos em código so
 - ISP: Interface Segregation Principle
 - DIP: Dependency Inversion Principle
 
-7) Padrões e Boas Práticas:
+### 7) Padrões e Boas Práticas: ###
 
 - LoD: Law of Dementer
 - Hollywood Principle
